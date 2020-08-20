@@ -1,100 +1,84 @@
----
-layout: default
----
 
-## Close, 2WD accessible ##
+# Will Bamberg
 
-Thee hikes/scrambles are all within a couple of hours drive of Vancouver and are 2WD accessible.
+* wbamberg@fastmail.com
+* [github.com/wbamberg](https://github.com/wbamberg)
 
-### Crown Mountain ###
+## Summary
 
-One of three North Shore hikes. Access is from the bottom of Grouse Mountain, and I'd want to hike up, but ride the gondola back down. Like all the North Shore mountains, steep, difficult, and lots of time in the trees.
+Technical writer and documentation engineer specializing in developer documentation.
 
-[http://www.vancouvertrails.com/trails/crown-mountain/](http://www.vancouvertrails.com/trails/crown-mountain/)<br/>
-[http://www.outdoorvancouver.ca/featured-trail-crown-mountain/](http://www.outdoorvancouver.ca/featured-trail-crown-mountain/)<br/>
-[http://www.straight.com/blogra/crown-mountain-hike-thrilling-north-shore-classic](http://www.straight.com/blogra/crown-mountain-hike-thrilling-north-shore-classic)
+* I'm technically proficient and not afraid to dive into new software systems, analyze their documentation needs and address them. 
+* I follow good practices for developing and maintaining documentation systems, such as user testing, linting, version control, and continuous integration.
+* I can invent and execute innovative solutions to documentation problems.
+* I have 10 years experience working remotely across 9 timezones.
 
-### Coliseum & Burwell ###
+## Skills
 
-Also a North Shore one. I'd choose to go up the Seymour side rather than Lynn Valley, which means a 9K bike ride in along the [Seymour Valley Trailway](http://www.letsgobiking.net/2010/05/5-seymour-forest-north-vancouver-bc.html). We could even bike from home, but that would make it pretty tough. Like all the North Shore mountains, steep, difficult, and lots of time in the trees. This would probably be my first choice among the three North Shore hikes.
+* Front-end web developer technologies: HTML, CSS, JavaScript
+* Documentation tools: Markdown, Python, Node, ESLint, JSON, YAML, Git, GitHub
 
-[http://www.trailpeak.com/trail-Coliseum-Mountain-near-Vancouver-BC-1176](http://www.trailpeak.com/trail-Coliseum-Mountain-near-Vancouver-BC-1176)<br/>
-[http://vancouverhiatus.com/hiking/coliseum-mountain.html](http://vancouverhiatus.com/hiking/coliseum-mountain.html)
+## Employment
 
-### Brunswick Mountain ###
+### Mozilla Technical writer / Staff technical writer, 2010-2020
 
-The last North Shore one. The highest of the North Shore mountains.
+Technical writer working on MDN Web Docs (https://developer.mozilla.org).
 
-[http://vancouverhiatus.com/hiking/brunswick-mountain.html](http://vancouverhiatus.com/hiking/brunswick-mountain.html)<br/>
-[http://www.trailpeak.com/trail-Brunswick-Mountain-near-Vancouver-BC-1153](http://www.trailpeak.com/trail-Brunswick-Mountain-near-Vancouver-BC-1153)
+#### MDN docs structure and linting, 2019-2020
 
-### Mount Price ###
+Led a project to improve the consistency and correctness of MDN reference documentation. In collaboration with others:
 
-This is the mountain on the other side of Garibaldi Lake from Panorama Ridge. Pluses: great views of the lake and surrounding mountains. Minuses: hiking up from the trailhead to Garibaldi Lake is boring and v crowded. Long, but (I think) not too difficult.
+* defined structures for MDN's JavaScript and CSS reference documentation pages
+* implemented a linter to check pages against structures
+* fixed thousands of linter errors.
 
-[http://www.trailpeak.com/trail-Mount-Price-Garibaldi-near-Squamish-BC-6858](http://www.trailpeak.com/trail-Mount-Price-Garibaldi-near-Squamish-BC-6858)<br/>
-[http://www.livetrails.com/trails/Mount-Price-968.html](http://www.livetrails.com/trails/Mount-Price-968.html)
+#### MDN interactive examples, 2017-2019
 
-### Tomyhoi/Yellow Aster Butte ###
+Led a project to add [interactive examples](https://hacks.mozilla.org/2018/03/bringing-interactive-examples-to-mdn/) to MDN's JavaScript, CSS, and HTML reference documentation.
 
-In Washington. I think actually getting to the top of Tomyhoi would be too difficult, but getting close should be possible. Alternatively, Yellow Aster Butte is in the same area and is supposed to be nice. It's supposed to have great fall colours, so maybe a good choice for September?
+* Collaborated with user testing, UX, developers, and technical writers to add illustrative and beautiful interactive examples to MDN's most popular pages.
+* Continued to support the project by reviewing pull requests and mentoring community contributions.
 
-There are lots of other great trails round there that could be worth a look.
+#### Firefox WebExtensions, 2015-2017
 
-[http://www.trailpeak.com/trail-Yellow-Aster-Butte-in-WA-USA-1586](http://www.trailpeak.com/trail-Yellow-Aster-Butte-in-WA-USA-1586)<br/>
-[http://www.clubtread.com/routes/Route.aspx?Route=527](http://www.clubtread.com/routes/Route.aspx?Route=527)
+Designed and created [documentation for the new Firefox extensions technology](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions), including:
 
-### Brandywine Mountain ###
+* complete reference documentation for the JavaScript APIs
+* [dozens of example add-ons](https://github.com/mdn/webextensions-examples)
+* an innovative way to represent browser support using JSON data.
 
-Great hike. Not too difficult, amazing views, proper mountain. I've been here twice and failed to get to the top both times.
+#### Firefox Developer Tools, 2013-2016
 
-[https://www.flickr.com/photos/will_and_andrea/sets/72157631033989550](https://www.flickr.com/photos/will_and_andrea/sets/72157631033989550)<br/>
-[http://www.trailpeak.com/trail-Brandywine-Mountain-near-Whistler-BC-527](http://www.trailpeak.com/trail-Brandywine-Mountain-near-Whistler-BC-527)<br/>
-[http://www.livetrails.com/trails/Brandywine-Mountain-983.html](http://www.livetrails.com/trails/Brandywine-Mountain-983.html)
+Created and maintained documentation for the [Firefox developer tools](https://developer.mozilla.org/en-US/docs/Tools), including tutorials, how-to guides, screenshots, screencasts, and example code.
 
-### Sigurd Peak ###
+#### Firefox Add-on SDK, 2010-2013
 
-Up the Squamish River valley, great views of the Tantalus range. However, much of the hike is in the trees, from what I can tell (you start fairly near sea level). Looks like a very steep hike, difficult. It would be good to camp at the cabin the night before so as to get an early start.
+Designed and created documentation and documentation system for the Firefox Add-on SDK.
 
-[http://www.clubtread.com/routes/Route.aspx?Route=1121](http://www.clubtread.com/routes/Route.aspx?Route=1121)<br/>
-[http://www.livetrails.com/trails/Sigurd-Peak-623.html](http://www.livetrails.com/trails/Sigurd-Peak-623.html)
+### Mobidia, System Architect, 2009-2010
 
-### Needle Peak ###
+Research into network optimization techniques and communications protocol design.
 
-This is in the Coquihalla, and is the furthest from Vancouver of the hikes in this list. Because it's just off the highway, though, it is doable in a day - the drive is about 2 1/4 hours. It's supposed to be really nice, but in general I usually like the Coast mountains better than the Coquihalla.
+### Intrinsyc Software Inc., Team Lead / Architect, 2006-2009
 
-[http://www.livetrails.com/trails/Needle-Peak-98.html](http://www.livetrails.com/trails/Needle-Peak-98.html)<br/>
-[http://www.clubtread.com/routes/Route.aspx?Route=1](http://www.clubtread.com/routes/Route.aspx?Route=1)<br/>
+Managed a team of 8-12 engineers including responsibility for training, mentoring and individual performance.
 
+Worked as Text & Internationalization Architect for Symbian Ltd. Created high level design for major upgrade to the core Unicode support and redesign of the localization components to simplify variant creation.
 
-## Far away, 2WD accessible ##
+### Nokia Mobile Phones Telephony Architect, 2003-2005
 
-These hikes/scrambles are all far enough from Vancouver (3 hours drive or more) to be not really easily doable in a day. Somehow we'd need to figure out a place to stay the night beforehand.
+Developed design for a modular, layered telephony adaptation architecture to reduce licensee development costs and support feature variability. Refactored code base to improve code quality and reduce code size.
 
-They all look really amazing though.
+### October 1997-August 2003: Symbian Ltd.: Security Architect / Software Engineer
 
-### Locomotive Mountain ###
+Requirements capture and analysis in collaboration with customers including security policy framework for platform security and DRM requirements analysis.
 
-From Semaphore Lakes, up the Hurley FSR. Semaphore Lakes is a [really beautiful area](https://www.flickr.com/photos/will_and_andrea/sets/72157631724200531), and Locomotive looks like a great mountain. It's such a lovely area that ideally you'd camp at the lakes, but it would be totally doable in a day from the road. However it's a solid 3 1/2 hours from Vancouver.
+Architecture and design work: cryptographic token framework, cryptography library, file encryption API, key management module.
 
-[http://forums.clubtread.com/27-british-columbia/42993-dummies-guide-locomotive-mtn-semaphore-lakes.html](http://forums.clubtread.com/27-british-columbia/42993-dummies-guide-locomotive-mtn-semaphore-lakes.html)<br/>
-[http://www.livetrails.com/trails/Locomotive-Mountain-from-Semaphore-Lakes-2891.html](http://www.livetrails.com/trails/Locomotive-Mountain-from-Semaphore-Lakes-2891.html)<br/>
+Development of Symbian OS middleware and security components: smart card server, OCSP client, TLS client, X.509 certificate management components.
 
-### Taylor and/or Tszil Mountains ###
+## Education
 
-The first part of this is Joffre Lakes, then you just keep going at the upper lake.
+1994-1995: Middlesex University: Postgraduate Diploma, Knowledge Engineering
 
-[http://forums.clubtread.com/27-british-columbia/58826-taylor-tszil-june-13-2015-a.html](http://forums.clubtread.com/27-british-columbia/58826-taylor-tszil-june-13-2015-a.html)<br/>
-[http://www.livetrails.com/trails/Tszil-Peak-from-Joffre-Lakes-Parking-Lots-201.html](http://www.livetrails.com/trails/Tszil-Peak-from-Joffre-Lakes-Parking-Lots-201.html)<br/>
-
-### Downton Peak 8700/Statimcets ###
-
-I'm not at all familiar with this area, it looks beautiful though, with lots of alpine wandering.
-
-[http://forums.clubtread.com/27-british-columbia/43458-beginner-guide-statimcets-linus-downton-creek.html](http://forums.clubtread.com/27-british-columbia/43458-beginner-guide-statimcets-linus-downton-creek.html)<br/>
-
-### Haylmore-Melvin/Twin Lakes ###
-
-I'm also totally unfamiliar with this area, but it also looks amazing. Might be worth going while next year, when the wildflowers are still happening. This also looks like a great place to camp.
-
-[http://www.livetrails.com/trails/Haylmore-Melvin-Divide-7.html](http://www.livetrails.com/trails/Haylmore-Melvin-Divide-7.html)<br/>
+1991-1994: Keble College, Oxford University: B.A., Politics and Philosophy (First Class Honours)  
