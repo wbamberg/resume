@@ -263,3 +263,7 @@ h1 {
   display: flex;
   justify-content: space-between;
 }
+
+.context>li {
+  list-style-type: none;
+}
