@@ -1,6 +1,6 @@
 <h1 id="will-bamberg">Will Bamberg</h1>
 
-<ul>
+<ul class="contact">
   <li>wbamberg@fastmail.com</li>
   <li><a href="https://github.com/wbamberg">github.com/wbamberg</a></li>
 </ul>
