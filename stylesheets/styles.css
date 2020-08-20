@@ -287,6 +287,14 @@ h3 {
   padding-left: 0;
 }
 
+h3 span {
+  flex: 1 1 30%;
+}
+
+h3 span:last-of-type {
+  flex: 1 2 30%;
+}
+
 .contact li {
   list-style-type: none;
 }
