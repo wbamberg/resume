@@ -1,84 +1,95 @@
+<h1 id="will-bamberg">Will Bamberg</h1>
 
-# Will Bamberg
+<ul>
+  <li>wbamberg@fastmail.com</li>
+  <li><a href="https://github.com/wbamberg">github.com/wbamberg</a></li>
+</ul>
 
-* wbamberg@fastmail.com
-* [github.com/wbamberg](https://github.com/wbamberg)
+<h2 id="summary">Summary</h2>
 
-## Summary
+<p>Technical writer and documentation engineer specializing in developer documentation.</p>
 
-Technical writer and documentation engineer specializing in developer documentation.
+<ul>
+  <li>I’m technically proficient and not afraid to dive into new software systems, analyze their documentation needs and address them.</li>
+  <li>I follow good practices for developing and maintaining documentation systems, such as user testing, linting, version control, and continuous integration.</li>
+  <li>I can invent and execute innovative solutions to documentation problems.</li>
+  <li>I have 10 years experience working remotely across 9 timezones.</li>
+</ul>
 
-* I'm technically proficient and not afraid to dive into new software systems, analyze their documentation needs and address them. 
-* I follow good practices for developing and maintaining documentation systems, such as user testing, linting, version control, and continuous integration.
-* I can invent and execute innovative solutions to documentation problems.
-* I have 10 years experience working remotely across 9 timezones.
+<h2 id="skills">Skills</h2>
 
-## Skills
+<ul>
+  <li>Front-end web developer technologies: HTML, CSS, JavaScript</li>
+  <li>Documentation tools: Markdown, Python, Node, ESLint, JSON, YAML, Git, GitHub</li>
+</ul>
 
-* Front-end web developer technologies: HTML, CSS, JavaScript
-* Documentation tools: Markdown, Python, Node, ESLint, JSON, YAML, Git, GitHub
+<h2 id="employment">Employment</h2>
 
-## Employment
+<h3 id="mozilla-technical-writer--staff-technical-writer-2010-2020">Mozilla Technical writer / Staff technical writer, 2010-2020</h3>
 
-### Mozilla Technical writer / Staff technical writer, 2010-2020
+<p>Technical writer working on MDN Web Docs (https://developer.mozilla.org).</p>
 
-Technical writer working on MDN Web Docs (https://developer.mozilla.org).
+<h4 id="mdn-docs-structure-and-linting-2019-2020">MDN docs structure and linting, 2019-2020</h4>
 
-#### MDN docs structure and linting, 2019-2020
+<p>Led a project to improve the consistency and correctness of MDN reference documentation. In collaboration with others:</p>
 
-Led a project to improve the consistency and correctness of MDN reference documentation. In collaboration with others:
+<ul>
+  <li>defined structures for MDN’s JavaScript and CSS reference documentation pages</li>
+  <li>implemented a linter to check pages against structures</li>
+  <li>fixed thousands of linter errors.</li>
+</ul>
 
-* defined structures for MDN's JavaScript and CSS reference documentation pages
-* implemented a linter to check pages against structures
-* fixed thousands of linter errors.
+<h4 id="mdn-interactive-examples-2017-2019">MDN interactive examples, 2017-2019</h4>
 
-#### MDN interactive examples, 2017-2019
+<p>Led a project to add <a href="https://hacks.mozilla.org/2018/03/bringing-interactive-examples-to-mdn/">interactive examples</a> to MDN’s JavaScript, CSS, and HTML reference documentation.</p>
 
-Led a project to add [interactive examples](https://hacks.mozilla.org/2018/03/bringing-interactive-examples-to-mdn/) to MDN's JavaScript, CSS, and HTML reference documentation.
+<ul>
+  <li>Collaborated with user testing, UX, developers, and technical writers to add illustrative and beautiful interactive examples to MDN’s most popular pages.</li>
+  <li>Continued to support the project by reviewing pull requests and mentoring community contributions.</li>
+</ul>
 
-* Collaborated with user testing, UX, developers, and technical writers to add illustrative and beautiful interactive examples to MDN's most popular pages.
-* Continued to support the project by reviewing pull requests and mentoring community contributions.
+<h4 id="firefox-webextensions-2015-2017">Firefox WebExtensions, 2015-2017</h4>
 
-#### Firefox WebExtensions, 2015-2017
+<p>Designed and created <a href="https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions">documentation for the new Firefox extensions technology</a>, including:</p>
 
-Designed and created [documentation for the new Firefox extensions technology](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions), including:
+<ul>
+  <li>complete reference documentation for the JavaScript APIs</li>
+  <li><a href="https://github.com/mdn/webextensions-examples">dozens of example add-ons</a></li>
+  <li>an innovative way to represent browser support using JSON data.</li>
+</ul>
 
-* complete reference documentation for the JavaScript APIs
-* [dozens of example add-ons](https://github.com/mdn/webextensions-examples)
-* an innovative way to represent browser support using JSON data.
+<h4 id="firefox-developer-tools-2013-2016">Firefox Developer Tools, 2013-2016</h4>
 
-#### Firefox Developer Tools, 2013-2016
+<p>Created and maintained documentation for the <a href="https://developer.mozilla.org/en-US/docs/Tools">Firefox developer tools</a>, including tutorials, how-to guides, screenshots, screencasts, and example code.</p>
 
-Created and maintained documentation for the [Firefox developer tools](https://developer.mozilla.org/en-US/docs/Tools), including tutorials, how-to guides, screenshots, screencasts, and example code.
+<h4 id="firefox-add-on-sdk-2010-2013">Firefox Add-on SDK, 2010-2013</h4>
 
-#### Firefox Add-on SDK, 2010-2013
+<p>Designed and created documentation and documentation system for the Firefox Add-on SDK.</p>
 
-Designed and created documentation and documentation system for the Firefox Add-on SDK.
+<h3 id="mobidia-system-architect-2009-2010">Mobidia, System Architect, 2009-2010</h3>
 
-### Mobidia, System Architect, 2009-2010
+<p>Research into network optimization techniques and communications protocol design.</p>
 
-Research into network optimization techniques and communications protocol design.
+<h3 id="intrinsyc-software-inc-team-lead--architect-2006-2009">Intrinsyc Software Inc., Team Lead / Architect, 2006-2009</h3>
 
-### Intrinsyc Software Inc., Team Lead / Architect, 2006-2009
+<p>Managed a team of 8-12 engineers including responsibility for training, mentoring and individual performance.</p>
 
-Managed a team of 8-12 engineers including responsibility for training, mentoring and individual performance.
+<p>Worked as Text &amp; Internationalization Architect for Symbian Ltd. Created high level design for major upgrade to the core Unicode support and redesign of the localization components to simplify variant creation.</p>
 
-Worked as Text & Internationalization Architect for Symbian Ltd. Created high level design for major upgrade to the core Unicode support and redesign of the localization components to simplify variant creation.
+<h3 id="nokia-mobile-phones-telephony-architect-2003-2005">Nokia Mobile Phones Telephony Architect, 2003-2005</h3>
 
-### Nokia Mobile Phones Telephony Architect, 2003-2005
+<p>Developed design for a modular, layered telephony adaptation architecture to reduce licensee development costs and support feature variability. Refactored code base to improve code quality and reduce code size.</p>
 
-Developed design for a modular, layered telephony adaptation architecture to reduce licensee development costs and support feature variability. Refactored code base to improve code quality and reduce code size.
+<h3 id="october-1997-august-2003-symbian-ltd-security-architect--software-engineer">October 1997-August 2003: Symbian Ltd.: Security Architect / Software Engineer</h3>
 
-### October 1997-August 2003: Symbian Ltd.: Security Architect / Software Engineer
+<p>Requirements capture and analysis in collaboration with customers including security policy framework for platform security and DRM requirements analysis.</p>
 
-Requirements capture and analysis in collaboration with customers including security policy framework for platform security and DRM requirements analysis.
+<p>Architecture and design work: cryptographic token framework, cryptography library, file encryption API, key management module.</p>
 
-Architecture and design work: cryptographic token framework, cryptography library, file encryption API, key management module.
+<p>Development of Symbian OS middleware and security components: smart card server, OCSP client, TLS client, X.509 certificate management components.</p>
 
-Development of Symbian OS middleware and security components: smart card server, OCSP client, TLS client, X.509 certificate management components.
+<h2 id="education">Education</h2>
 
-## Education
+<p>1994-1995: Middlesex University: Postgraduate Diploma, Knowledge Engineering</p>
 
-1994-1995: Middlesex University: Postgraduate Diploma, Knowledge Engineering
-
-1991-1994: Keble College, Oxford University: B.A., Politics and Philosophy (First Class Honours)  
+<p>1991-1994: Keble College, Oxford University: B.A., Politics and Philosophy (First Class Honours)</p>
