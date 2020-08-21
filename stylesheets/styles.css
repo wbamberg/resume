@@ -256,7 +256,7 @@ footer {
 /***/
 
 h1 {
-  width: 50%;
+  width: max-content;
   margin: 1rem auto;
   font-size:2rem;
 }
